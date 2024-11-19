@@ -144,15 +144,15 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-red',
         name: 'Portfolio Website',
-        description: 'Developed a web application that dshows my skills and presents my projects and experience online!',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        description: 'Developed a website showing my skillset and experiences. It uses Three JS and Node Js frameworks to make it so attractive',
+        link: 'https://github.com/sahilcingh/Portfolio---2',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Face Detection using Arduino and ESP-32',
-        description: 'Created a hardware project which detects face using ESP-32 cam and processes the results in the form to show output',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Rock or Mine detection using SONAR Data',
+        description: 'This project implements a machine learning model to classify objects as either rocks or mines using SONAR data. The model is built using Logistic Regression and developed in Python with Google Colaboratory.',
+        link: 'https://github.com/sahilcingh/Rock-or-Mine-Prediction-using-SONAR-Data',
     },
     {
         iconUrl: car,
@@ -164,8 +164,8 @@ export const projects = [
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'RapidFeast',
-        description: 'A MERN Stack Project that is a food delivery app which contains user data online using MongoDB',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'Loan Prediction Using DS',
+        description: 'A machine learning model that uses Data Science concepts like Naive Bayes algorithm, with a impressive accuracy rate. ',
+        link: 'https://github.com/sahilcingh/LoanPredictionusingDS',
     }
 ];
